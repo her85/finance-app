@@ -24,7 +24,7 @@ Requisitos
 
 ```bash
 git clone <repo-url>
-cd finance-front
+cd finance-app
 ```
 
 2. Instala dependencias:
